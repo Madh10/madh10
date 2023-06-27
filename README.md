@@ -6,6 +6,8 @@
 - 📫 How to reach me: mmanjuna@andrew.cmu.edu
 - ⚡ Fun fact:  I thoroughly enjoy playing poker and spades, both of which are card games that I find incredibly entertaining! ♠
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@madhura.manjunatha/48db1602c3a"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@madhura.manjunatha/48db1602c3a" alt="Recent Article 0">
+
 <!--
 **Madh10/madh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
